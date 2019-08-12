@@ -1,4 +1,4 @@
-# Installing Xdebug for XAMPP with PHP 7.x
+# Configuring xdebug for php7.x with xampp
 
 ## Requirements
 
